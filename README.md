@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomassMathisen
 - 👀 I’m interested in developing my programming skills
-- 🌱 I’m currently learning JavaScript, node.js and Python
+- 🌱 I’m currently learning JavaScript, react.js, node.js and python
 - 💞️ I’m looking to collaborate on any projects to gain more experience
 - 📫 How to reach me: thomasmathisen@hotmail.com
