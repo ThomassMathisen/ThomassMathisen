@@ -73,6 +73,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
         height="48"
@@ -82,6 +91,15 @@
     </td>
   </tr>
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
