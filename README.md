@@ -1,7 +1,7 @@
 # Hello there!
 
 <div align="justify">
-    My name is Thomas and I am currently learning Full Stack JavaScript with The Odin Project. I love to learn and I am passionate about new technologies for solving problems! 
+    My name is Thomas and I am a Full Stack Developer with a focus on Front-End using React. I love to learn about new technologies and solving problems! 
 </div>
 
 # 🔧 Technologies & Tools
